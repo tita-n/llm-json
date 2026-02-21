@@ -1,5 +1,5 @@
 {
-  "name": "llm-json",
+  "name": "parse-llm-json",
   "version": "0.1.0",
   "description": "Extract structured data from LLM output with streaming support",
   "type": "module",
